@@ -1,7 +1,7 @@
-package at.ac.tuwien.ifs.publications.restclient;
+package at.ac.tuwien.ifs.semweb.publications.restclient;
 
-import at.ac.tuwien.ifs.publications.util.Config;
-import at.ac.tuwien.ifs.publications.util.Utils;
+import at.ac.tuwien.ifs.semweb.publications.util.Config;
+import at.ac.tuwien.ifs.semweb.publications.util.Utils;
 import org.springframework.web.util.UriComponentsBuilder;
 
 import java.net.URI;
@@ -13,6 +13,9 @@ import java.net.URI;
  * @author xlin
  */
 public class PublikConstants {
+	/**
+	 * Parameter to filter by institutes.
+	 */
 	public static final String INSTITUTE_PARAM = "inst";
 
 	public static final String INSTITUTE_VALUES;

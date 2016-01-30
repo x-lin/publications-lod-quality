@@ -1,4 +1,4 @@
-package at.ac.tuwien.ifs.publications.model;
+package at.ac.tuwien.ifs.semweb.publications.model;
 
 import javax.xml.bind.annotation.*;
 import java.util.List;

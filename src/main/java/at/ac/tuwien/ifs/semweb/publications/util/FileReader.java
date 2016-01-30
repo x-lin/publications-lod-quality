@@ -1,4 +1,4 @@
-package at.ac.tuwien.ifs.publications.util;
+package at.ac.tuwien.ifs.semweb.publications.util;
 
 import java.io.IOException;
 import java.io.InputStream;

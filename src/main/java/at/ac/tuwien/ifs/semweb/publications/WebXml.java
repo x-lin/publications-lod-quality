@@ -1,4 +1,4 @@
-package at.ac.tuwien.ifs.publications;
+package at.ac.tuwien.ifs.semweb.publications;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.context.web.SpringBootServletInitializer;

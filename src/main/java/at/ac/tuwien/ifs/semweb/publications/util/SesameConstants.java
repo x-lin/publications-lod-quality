@@ -1,6 +1,6 @@
-package at.ac.tuwien.ifs.publications.util;
+package at.ac.tuwien.ifs.semweb.publications.util;
 
-import at.ac.tuwien.ifs.publications.vocabulary.Vocab;
+import at.ac.tuwien.ifs.semweb.publications.vocabulary.Vocab;
 import org.openrdf.model.URI;
 import org.openrdf.model.impl.ValueFactoryImpl;
 

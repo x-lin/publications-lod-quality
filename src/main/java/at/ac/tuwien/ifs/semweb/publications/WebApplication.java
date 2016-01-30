@@ -1,17 +1,12 @@
-package at.ac.tuwien.ifs.publications;
+package at.ac.tuwien.ifs.semweb.publications;
 
-import at.ac.tuwien.ifs.publications.restclient.PublikExtractor;
-import ch.qos.logback.classic.pattern.MessageConverter;
+import at.ac.tuwien.ifs.semweb.publications.restclient.PublikExtractor;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
 import org.springframework.http.converter.HttpMessageConverter;
-import org.springframework.http.converter.ResourceHttpMessageConverter;
 import org.springframework.http.converter.xml.Jaxb2RootElementHttpMessageConverter;
-import org.springframework.http.converter.xml.MarshallingHttpMessageConverter;
 import org.springframework.web.client.RestTemplate;
-
-import java.util.Collections;
 
 /**
  * Spring boot application main class.

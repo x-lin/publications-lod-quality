@@ -1,4 +1,4 @@
-package at.ac.tuwien.ifs.publications;
+package at.ac.tuwien.ifs.semweb.publications;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

@@ -1,4 +1,4 @@
-package at.ac.tuwien.ifs.publications.vocabulary;
+package at.ac.tuwien.ifs.semweb.publications.vocabulary;
 
 /**
  * //TODO add publications vocabulary/ontology
